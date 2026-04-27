@@ -1,5 +1,9 @@
 # Netflix Catalog Analysis (2008-2021)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Tool: Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-green)
+
 ## 📊 Project Overview
 This project analyzes Netflix's content catalog using a publicly available 
 dataset from Kaggle. The goal is to understand patterns in Netflix's content 
