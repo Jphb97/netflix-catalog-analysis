@@ -63,10 +63,10 @@ increasing since 2017, suggesting Netflix is investing more in series.
 ![Dashboard](dashboard_overview.png)
 
 ## 📂 Files
-- `netflix-analysis-portfolio.pbix` — Power BI source file
-- `netflix-analysis-portfolio.pdf` — PDF export of the dashboard
-- `netflix_titles.csv` — Original dataset
-
+- [`netflix-analysis-portfolio.pbix`](netflix-analysis-portfolio.pbix) — Power BI source file
+- [`netflix-analysis-portfolio.pdf`](netflix-analysis-portfolio.pdf) — PDF export of the dashboard
+- [`netflix_titles.csv`](netflix_titles.csv) — Original dataset
+  
 ## 👤 Author
 **Juan Hernandez** — Aspiring Data Analyst
 - LinkedIn: linkedin.com/in/juanhernandezb
