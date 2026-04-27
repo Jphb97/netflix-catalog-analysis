@@ -56,7 +56,7 @@ increasing since 2017, suggesting Netflix is investing more in series.
 - ~10% of records were removed due to missing `Date Added` values.
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ## 📂 Files
 - `dashboard/Netflix_Catalog_Analysis.pbix` — Power BI source file
