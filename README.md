@@ -67,3 +67,6 @@ increasing since 2017, suggesting Netflix is investing more in series.
 **Juan Hernandez** — Aspiring Data Analyst
 - LinkedIn: linkedin.com/in/juanhernandezb
 - Email: juanphb7@gmail.com
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
